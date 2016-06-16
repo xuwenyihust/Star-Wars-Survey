@@ -8,5 +8,5 @@ Raw data: [star_wars.csv](https://github.com/fivethirtyeight/data/tree/master/st
 
 After cleanning:
 
-| #### Column                               | #### Description                           |
+|      Column                               |      Description                           |
 | ----------------------------------------- | -------------------------------------------|
