@@ -8,22 +8,22 @@ Raw data: [star_wars.csv](https://github.com/fivethirtyeight/data/tree/master/st
 
 After cleanning:
 
-|      Column                                                                |      Description                           |
-| -------------------------------------------------------------------------- | -------------------------------------------|
-| RespondentID                                                               |                                            |
-| Have you seen any of the 6 films in the Star Wars franchise?               |                                            |
-| Do you consider yourself to be a fan of the Star Wars film franchise?      |                                            |
-| seen_1                                                                     |                                            |
-| seen_2                                                                     |                                            |
-| seen_3                                                                     |                                            |
-| seen_4                                                                     |                                            |
-| seen_5                                                                     |                                            |
-| seen_6                                                                     |                                            |
-| ranking_1                                                                  |                                            |
-| ranking_2                                                                  |                                            |
-| ranking_3                                                                  |                                            |
-| ranking_4                                                                  |                                            |
-| ranking_5                                                                  |                                            |
-| ranking_6                                                                  |                                            |
+|      Column                                                                |      Description                                     |
+| -------------------------------------------------------------------------- | -----------------------------------------------------|
+| RespondentID                                                               | An anonymized ID of the person taking the survey.    |
+| Have you seen any of the 6 films in the Star Wars franchise?               | True / False                                         |
+| Do you consider yourself to be a fan of the Star Wars film franchise?      | True / False                                         |
+| seen_1                                                                     | Seen Star Wars: Episode I:   True / False            |
+| seen_2                                                                     | Seen Star Wars: Episode II:  True / False            |
+| seen_3                                                                     | Seen Star Wars: Episode III: True / False            |
+| seen_4                                                                     | Seen Star Wars: Episode IV:  True / False            |
+| seen_5                                                                     | Seen Star Wars: Episode V:   True / False            |
+| seen_6                                                                     | Seen Star Wars: Episode VI:  True / False            |
+| ranking_1                                                                  | Rank of Star Wars: Episode I                         |
+| ranking_2                                                                  | Rank of Star Wars: Episode II                        |
+| ranking_3                                                                  | Rank of Star Wars: Episode III                       |
+| ranking_4                                                                  | Rank of Star Wars: Episode IV                        |
+| ranking_5                                                                  | Rank of Star Wars: Episode V                         |
+| ranking_6                                                                  | Rank of Star Wars: Episode VI                        |
 
 
