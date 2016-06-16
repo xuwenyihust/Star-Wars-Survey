@@ -27,6 +27,7 @@ After cleanning:
 | ranking_6                                                                  | Rank of Star Wars: Episode VI                        |
 
 ### Goals
-1. Count the overall ranks of each star wars movie using .mean() method, and plot the bar chart.
-2. 
+1. Compare the overall ranks of each star wars movie, and plot the bar chart.
+2. Compare the number of people who have seen each star wars movie, and plot the bar chart.
+3. Redo 1,2 with male & female divided.
 
