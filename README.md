@@ -25,6 +25,20 @@ After cleanning:
 | ranking_4                                                                  | Rank of Star Wars: Episode IV                        |
 | ranking_5                                                                  | Rank of Star Wars: Episode V                         |
 | ranking_6                                                                  | Rank of Star Wars: Episode VI                        |
+| Han Solo                                                                   | Attitude toward this character                       |
+| Luke Skywalker                                                             | Attitude toward this character                       |
+| Princess Leia Organa                                                       | Attitude toward this character                       |
+| Anakin Skywalker                                                           | Attitude toward this character                       |
+| Obi Wan Kenobi                                                             | Attitude toward this character                       |
+| Emperor Palpatine                                                          | Attitude toward this character                       |
+| Darth Vader                                                                | Attitude toward this character                       |
+| Lando Calrissian                                                           | Attitude toward this character                       |
+| Boba Fett                                                                  | Attitude toward this character                       |
+| C-3P0                                                                      | Attitude toward this character                       |
+| R2 D2                                                                      | Attitude toward this character                       |
+| Jar Jar Binks                                                              | Attitude toward this character                       |
+| Padme Amidala                                                              | Attitude toward this character                       |
+| Yoda                                                                       | Attitude toward this character                       |
 
 ### Goals
 1. Compare the overall ranks of each star wars movie, and plot the bar chart.
