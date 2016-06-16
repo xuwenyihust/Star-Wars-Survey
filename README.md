@@ -30,4 +30,5 @@ After cleanning:
 1. Compare the overall ranks of each star wars movie, and plot the bar chart.
 2. Compare the number of people who have seen each star wars movie, and plot the bar chart.
 3. Redo 1,2 with male & female divided.
-
+4. Compare the popularity of different characters in star wars movies.
+...Find the 
